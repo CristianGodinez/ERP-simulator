@@ -2,13 +2,13 @@
 
 **Título obligatorio:** `[Entrega Final] 183016 - Business Partners: control seguro de cambios bancarios`
 
-> Sustituir `NUMERO_ISSUE` por el número real del Issue creado en el repositorio del profesor. No abrir como PR final hasta registrar el Issue individual.
+> El Issue individual ya fue publicado: [#240](https://github.com/jesusrevilla/ERP-simulator/issues/240). Esta descripción puede usarse para el PR final.
 
 # Resumen
 
 Planeación individual del proceso **Cambio seguro de cuentas bancarias de proveedores** del módulo **Business Partners** de TechAssembly S.A. La propuesta se enfoca en validación de solicitudes, segregación de funciones, verificación fuera de banda, autorización humana, versionado y auditoría. Es distinta del ciclo general del socio (#216) y del expediente centralizado (#217).
 
-Closes #NUMERO_ISSUE
+Closes #240
 
 ---
 
